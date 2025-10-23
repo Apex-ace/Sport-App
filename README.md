@@ -18,7 +18,7 @@
 
 | Welcome/Landing | Email Login | OTP Verification | Home Dashboard | Game Booking | User Profile |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| ![Welcome Screen](screenshots/image_1.png) | ![Email Login](screenshots/image_2.png) | ![OTP Verification](screenshots/image_3.png) | ![Home Dashboard](screenshots/image_4.png) | ![Game Booking](screenshots/image_5.png) | ![User Profile](screenshots/image_6.png) |
+| ![Welcome Screen](screenshots/image_1.jpg) | ![Email Login](screenshots/image_2.jpg) | ![OTP Verification](screenshots/image_3.jpg) | ![Home Dashboard](screenshots/image_4.jpg) | ![Game Booking](screenshots/image_5.jpg) | ![User Profile](screenshots/image_6.jpg) |
 
 ## Get the App
 
